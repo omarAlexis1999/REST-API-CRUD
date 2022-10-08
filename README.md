@@ -21,10 +21,13 @@ The routes for the API are as follows
 
 Create (POST)
 - http://localhost:3000/tasks
+
 Read (GET)
 - http://localhost:3000/tasks
+
 Update (PUT)
 - http://localhost:3000/tasks/{id}
+
 Remove (DELETE)
 - http://localhost:3000/tasks/{id}
 
